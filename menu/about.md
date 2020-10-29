@@ -1,18 +1,11 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: 一个年轻人
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+<a href="https://imgchr.com/i/BYPCbn"><img src="https://s1.ax1x.com/2020/10/29/BYPCbn.jpg" alt="BYPCbn.jpg" border="0" /></a>
 
-### Getting Started
+阿尔茨海默症疑似患者，现阶段致力于欧美市场出海。养了一只猫，名布姓丁。
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
 
-### Example Content
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
-
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
