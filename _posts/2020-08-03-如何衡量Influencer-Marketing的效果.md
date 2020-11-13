@@ -45,4 +45,6 @@ image: KOL.png
 
 高品质的视频，不仅需要让更多人看到，而且还要给人留下深刻印象。
 
+<a href="https://imgchr.com/i/DplAqf"><img src="https://s3.ax1x.com/2020/11/13/DplAqf.jpg" alt="DplAqf.jpg" border="0" /></a>
+
 <a href="https://imgchr.com/i/BZlUuq"><img src="https://s1.ax1x.com/2020/10/24/BZlUuq.md.png" alt="BZlUuq.png" border="0" /></a>
